@@ -1,0 +1,10 @@
+flask
+crewai
+openai
+plotly
+langchain
+langchain_community
+llama_index
+flask_sqlalchemy
+python-dotenv
+
